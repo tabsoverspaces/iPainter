@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iPainter</string>
+    <string name="title_activity_create_project">CreateProjectActivity</string>
+    <string name="title_activity_new_project">NewProjectActivity</string>
+    <string name="title_activity_main_project">MainProjectActivity</string>
+    <string name="title_activity_main_project_activty">MainProjectActivty</string>
+</resources>
